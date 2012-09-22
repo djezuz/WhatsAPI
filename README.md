@@ -1,7 +1,3 @@
-## September 19 note:
-> Sources are unavailable while we have a conversation with WhatsApp's legal team member.
-
-
 For recent changes, refer to the [Change Log](https://github.com/venomous0x/WhatsAPI/blob/master/CHANGELOG.md)
 
 # WhatsAPI
