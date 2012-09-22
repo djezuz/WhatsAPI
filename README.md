@@ -1,3 +1,11 @@
+# Read this
+
+It appears the WhatApp lawyers are trying to takedown this project instead of fixing their shitty protocol.
+
+This fork reverted the takedown commits and will stay online on Github.
+
+If Github removes this project, it will be mirrored elsewhere.
+
 For recent changes, refer to the [Change Log](https://github.com/venomous0x/WhatsAPI/blob/master/CHANGELOG.md)
 
 # WhatsAPI
